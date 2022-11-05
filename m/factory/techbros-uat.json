@@ -1,0 +1,9 @@
+{
+	"name": "techbros-uat",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c1ef196-2503-4be5-bcf3-59ef10157dec",
+		"tenantId": "4e7f6222-851c-4463-8207-894166b8fe55"
+	}
+}
