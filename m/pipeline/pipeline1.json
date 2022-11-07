@@ -99,6 +99,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
+					"dataset": {
+						"referenceName": "DelimitedText1",
+						"type": "DatasetReference"
+					},
 					"logStorageSettings": {
 						"linkedServiceName": {
 							"referenceName": "LnkBlobStorage",
