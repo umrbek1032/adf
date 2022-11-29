@@ -1,0 +1,9 @@
+{
+	"name": "forsqldb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfac949f-5995-4b8d-97f9-6d5c6ef854cc",
+		"tenantId": "4e7f6222-851c-4463-8207-894166b8fe55"
+	}
+}
